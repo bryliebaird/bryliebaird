@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Brylie Baird
 
-<hr> 
-
 
 
 
