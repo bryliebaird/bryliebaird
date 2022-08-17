@@ -1,4 +1,9 @@
-### Hi there 👋 I'm Brylie Baird
+## Hi there 👋 I'm Brylie Baird
+
+<hr> 
+
+
+
 
 <!--
 Here are some ideas to get you started:
