@@ -5,8 +5,8 @@
 <hr>
 
 <h4>✨ About Me</h4>
-<p>I’m passionate about creating _______ functional designs. Whether it’s building responsive websites, creating digital content for the classroom, or trying to stay organized by developing _____ systems, I’m always looking to learn and create.</p>
-<p>Other hobbies + interests: hanging out with my cat Azula, checking out my local library, reading, learning to cook, watching anime or House of Dragons (may be redacted dependent on the outcome) listening to lofi, and ____.</p> 
+<p>I’m passionate about creating, learning, and functional designs. Whether it’s building responsive websites or creating digital content for the classroom, I’m always looking to learn and create.</p>
+<p>Other hobbies + interests: Hanging out with my cat Azula🔥, checking out my local library, reading, learning to cook, watching anime or House of Dragons (that statement may be redacted dependent on the outcome, looking at you GOT.) listening to lofi, and being outdoors if there are no bugs and it isn't humid.</p> 
 <hr>
 <h4>🥷 My Ninja Way</h4>
 <p>“If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.” - Naruto</p>
