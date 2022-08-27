@@ -9,7 +9,7 @@
 <p>Other Hobbies + Interests:</p>
 <ul>
   <li>Hanging out with my cat Azula🔥</li>
-  <li>Reading & checking out my local library (or Half-Price Books)</li>
+  <li>Reading & checking out my local library (or Half Price Books)</li>
   <li>Attempting to cook (work in progress)</li>
   <li>Watching anime or House of Dragons (statement may be redacted dependent on the outcome, looking at you GOT.)</li>
   <li>Listening to lofi</li>
