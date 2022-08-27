@@ -1,4 +1,4 @@
-<p align="center">Hi there, I’m Brylie Baird 👋</p>
+<p align="center">Hi there, I’m Brylie Baird</p>
 <p align="center">📍Austin, TX</p>
 <p align="center">Wed Developer | Former Teacher | Curriculum Design</p>
 <p align="center">Website</p>
