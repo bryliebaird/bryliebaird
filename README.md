@@ -4,14 +4,14 @@
 <p align="center"><ins><a href="https://bryliebaird.org/">website</a></ins></p>
 <hr>
 
-<h4><ins>About Me</ins></h4>
+<h4>✨ About Me</h4>
 <p>I’m passionate about creating _______ functional designs. Whether it’s building responsive websites, creating digital content for the classroom, or trying to stay organized by developing _____ systems, I’m always looking to learn and create.</p>
 <p>Other hobbies + interests: hanging out with my cat Azula, checking out my local library, reading, learning to cook, watching anime or House of Dragons (may be redacted dependent on the outcome) listening to lofi, and ____.</p> 
 <hr>
 <h4>🥷 My Ninja Way</h4>
 <p>“If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.” - Naruto</p>
 <hr>
-<h4>Teacher Things</h4>
+<h4>🍎 Teacher Things</h4>
 <p>Think that lessons are just worksheets out of a textbook? Think again! Click the links below to check out some samples of lessons I created while working as a third-grade math teacher and STEM Instructor.</p> 
 <ul>
   <li>Escape from the Haunted Mansion (Digital Escape Room)</li>
@@ -20,15 +20,12 @@
 <hr>
 <h4>🛠️Technology + Tools</h4>
 <p>HTML, CSS, Bootstrap, SASS, Javascript, React, Canva, Google Workspace</p>
-
-📖 Currently Learning…
-Node.js, MongoDB
-
-🗓️ Future Learning Plans
-- Web Accessibility Tools/Practices 
-- Adobe 
-- Jest
-
+<hr>
+<h4>📖 Currently Learning…</h4>
+<p>Node.js, MongoDB</p>
+<hr>
+<h4>🗓️ Future Learning Plans</h4>
+<p>Web Accessibility Tools/Practices, Adobe Illustrator, Jest</p> 
 
 
 <!--
