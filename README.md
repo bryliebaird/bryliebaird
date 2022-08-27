@@ -1,9 +1,15 @@
-<p align="center">Hi there, I’m Brylie Baird</p>
+<h3 align="center">Hi there, I’m Brylie Baird</h3>
 <p align="center">📍Austin, TX</p>
 <p align="center">Wed Developer | Former Teacher | Curriculum Design</p>
-<p align="center"><ins><a href="https://bryliebaird.org/">Website</a></ins></p>
+<p align="center"><ins><a href="https://bryliebaird.org/">website</a></ins></p>
+<hr>
 
-
+<h4><ins>About Me</ins></h4>
+<p>I’m passionate about creating _______ functional designs. Whether it’s building responsive websites, creating digital content for the classroom, or trying to stay organized by developing _____ systems, I’m always looking to learn and create.</p>
+<p>Other hobbies + interests: hanging out with my cat Azula, checking out my local library, reading, learning to cook, watching anime or House of Dragons (may be redacted dependent on the outcome) listening to lofi, and ____.</p> 
+<hr>
+<h4>🥷 My Ninja Way</h4>
+<p>“If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.” - Naruto</p>
 
 
 <!--
