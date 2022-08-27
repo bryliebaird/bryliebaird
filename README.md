@@ -14,7 +14,7 @@
 <h4>🍎 Teacher Things</h4>
 <p>Think that lessons are just worksheets out of a textbook? Think again! Click the links below to check out some samples of lessons I created while working as a third-grade math teacher and STEM Instructor.</p> 
 <ul>
-  <li>Escape from the Haunted Mansion (Digital Escape Room)</li>
+  <li><a href="https://www.canva.com/design/DAFKdLqTCDE/_N7Mtx2GK43y50nyx-a5tg/view?utm_content=DAFKdLqTCDE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Escape from the Haunted Mansion (Digital Escape Room)</a></li>
   <li>Pixel Art Mystery Picture</li>
 </ul>
 <hr>
