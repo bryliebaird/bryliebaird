@@ -6,10 +6,18 @@
 
 <h4>✨ About Me</h4>
 <p>I’m passionate about creating, learning, and functional designs. Whether it’s building responsive websites or creating digital content for the classroom, I’m always looking to learn and create.</p>
-<p>Other hobbies + interests: Hanging out with my cat Azula🔥, checking out my local library, reading, learning to cook, watching anime or House of Dragons (that statement may be redacted dependent on the outcome, looking at you GOT.) listening to lofi, and being outdoors if there are no bugs and it isn't humid.</p> 
+<p>Other Hobbies + Interests:</p>
+<ul>
+  <li>Hanging out with my cat Azula🔥</li>
+  <li>Reading & checking out my local library (or Half-Price Books)</li>
+  <li>Attempting to cook (work in progress)</li>
+  <li>Watching anime or House of Dragons (statement may be redacted dependent on the outcome, looking at you GOT.)</li>
+  <li>Listening to lofi</li>
+  <li>Being outdoors if there are no bugs and it isn't humid</li>
+ </ul>
 <hr>
 <h4>🥷 My Ninja Way</h4>
-<p>“If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.” - Naruto</p>
+<p><em>“If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.”</em> - Naruto Uzumaki</p>
 <hr>
 <h4>🍎 Teacher Things</h4>
 <p>Think that lessons are just worksheets out of a textbook? Think again! Click the links below to check out some samples of lessons I created while working as a third-grade math teacher and STEM Instructor.</p> 
