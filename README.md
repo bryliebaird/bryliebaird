@@ -15,8 +15,8 @@
   <li>Being outdoors if there are no bugs and it isn't humid</li>
  </ul>
 <hr>
-<h4>🥷 My Philosophy df </h4>
-<p><em>“If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.”</em> - Naruto Uzumaki</p>
+<h4>My Philosophy</h4>
+<p><em>“If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.”</em> - Naruto Uzumaki 🥷</p>
 <hr>
 <h4>🍎 Teacher Things</h4>
 <p>Think that lessons are just worksheets out of a textbook? Think again! Click the links below to check out some samples of lessons I created while working as a third-grade math teacher and STEM Instructor.</p> 
