@@ -11,12 +11,11 @@
   <li>Hanging out with my cat Azula🔥</li>
   <li>Reading & checking out my local library (or Half Price Books)</li>
   <li>Attempting to cook (work in progress)</li>
-  <li>Watching anime or House of Dragons (statement may be redacted dependent on the outcome, looking at you GOT.)</li>
   <li>Listening to lofi</li>
   <li>Being outdoors if there are no bugs and it isn't humid</li>
  </ul>
 <hr>
-<h4>🥷 My Ninja Way</h4>
+<h4>🥷 My Philosophy df </h4>
 <p><em>“If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be.”</em> - Naruto Uzumaki</p>
 <hr>
 <h4>🍎 Teacher Things</h4>
